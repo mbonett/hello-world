@@ -1,2 +1,2 @@
 # hello-world
-tesrt repository for learning
+test repository for learning
