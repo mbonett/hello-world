@@ -1,4 +1,4 @@
 # hello-world
 test repository for learning
 
-Testin an intial set of changes
+Testing an intial set of changes
